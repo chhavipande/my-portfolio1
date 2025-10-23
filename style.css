@@ -1,0 +1,52 @@
+/* Body & overall page */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #FAFAFA; /* soft white background */
+    color: #333; /* default text color */
+    padding: 20px;
+}
+
+/* Header section */
+.header {
+    text-align: center;
+    background-color: #E0D4FF; /* soft pastel purple for header */
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.header h1 {
+    color: #8A2BE2; /* slightly deeper purple for heading */
+}
+
+/* Sections */
+.section {
+    background-color: #FFF9E6; /* very light pastel yellow for sections */
+    padding: 15px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.05); /* subtle shadow for depth */
+}
+
+/* Section headings */
+.section h2 {
+    color: #8A2BE2; /* same pastel purple as header for headings */
+    margin-bottom: 10px;
+}
+
+/* Lists */
+ul {
+    padding-left: 20px;
+}
+
+ul li:hover {
+    color: #5E00A0; /* darker purple on hover */
+    cursor: pointer;
+}
+
+/* Footer */
+.footer {
+    text-align: center;
+    color: #777;
+    margin-top: 20px;
+}
