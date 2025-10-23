@@ -1,2 +1,10 @@
-# my-portfolio1
-My first attempt at creating a personal portfolio website while learning HTML &amp; CSS.
+# My First Portfolio Website
+
+This is my **first attempt** at creating a personal portfolio website while learning HTML & CSS.
+
+## Features
+- About me section  
+- Hobbies and skills  
+- Languages I’m learning  
+- Contact information
+
